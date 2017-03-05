@@ -1,0 +1,12 @@
+/bin/
+/build/
+/.gradle/
+/.settings/
+/.classpath
+/.project
+/logs/
+/reports/
+/.*
+!.gitignore
+
+
